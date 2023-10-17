@@ -4,7 +4,6 @@ version = "0.1.0"
 description = ""
 authors = ["jacobthill <jtim@stanford.edu>"]
 readme = "README.md"
-packages = [{include = "library-data-airflow"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
